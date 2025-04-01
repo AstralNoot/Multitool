@@ -9,6 +9,6 @@ Step 2: Unzip the files and run the batch file.
 
 Notes:
 
-The batch file will ask for administration provlages this is normal and allows the program to move files.
+The batch file will ask for administration provlages this is normal.
 
-The batch file
+The batch file will download the required programs from the internet using invoke web request.
