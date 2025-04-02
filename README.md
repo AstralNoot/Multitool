@@ -15,6 +15,6 @@ Make sure to press enter if downloading or installing pauses for more than 10 se
 
 Known bugs:
 
-Reinstalling dependencies over the internet is not functional.
+- Reinstalling dependencies over the internet is not functional.
 
-Main menu loading is slow on lower end devices especially devices with low amounts of ram.
+- Main menu loading is slow on lower end devices especially devices with low amounts of ram.
