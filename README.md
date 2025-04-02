@@ -6,9 +6,3 @@ Install:
 Step 1: Click the code button and download the files as a zip.
 
 Step 2: Unzip the files and run the batch file.
-
-Notes:
-
-The batch file will ask for administration provlages this is normal.
-
-The batch file will download the required programs from the internet using invoke web request.
